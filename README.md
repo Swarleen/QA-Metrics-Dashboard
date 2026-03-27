@@ -16,7 +16,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
-## 🚀 Live Dashboard [![Open App](https://img.shields.io/badge/Open%20App-Streamlit-orange?logo=streamlit)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
+## 🚀 Live Dashboard [![Open App](https://img.shields.io/badge/Open%20Dashboard%20App%20Here-Google%20Looker-%20Blue)](https://lookerstudio.google.com/reporting/19bed04a-31ad-44b1-a179-7e1f87f610dc)
 
 
 [![Watch the demo](ezgif.gif)](https://emp-demo-distt.streamlit.app/?embed_options=light_theme,show_colored_line,show_padding)
