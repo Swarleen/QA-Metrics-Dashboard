@@ -2,7 +2,25 @@
 
 > **Tracking defect trends, resolution performance, and test execution quality across 8 agile sprints for an e-commerce platform redesign.**
 
----
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-Informational?style=for-the-badge&logo=datadog&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23FF6F00?style=for-the-badge&logo=agile&logoColor=white)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-007CBA?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+
+## 🚀 Live Dashboard [![Open App](https://img.shields.io/badge/Open%20Dashboard%20App%20Here-Google%20Looker-%20Blue)](https://lookerstudio.google.com/reporting/19bed04a-31ad-44b1-a179-7e1f87f610dc)
+
+
+[![Watch the demo](QAGIF.gif)](https://lookerstudio.google.com/reporting/19bed04a-31ad-44b1-a179-7e1f87f610dc)
+> Click the image above to open the live dashboard!
 
 ## 🧩 Problem Statement
 
