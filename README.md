@@ -1,4 +1,4 @@
-# 📊 QA Metrics Dashboard — Power BI Project
+# 📊 QA Metrics Dashboard
 
 > **Tracking defect trends, resolution performance, and test execution quality across 8 agile sprints for an e-commerce platform redesign.**
 
