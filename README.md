@@ -19,7 +19,7 @@
 ## 🚀 Live Dashboard [![Open App](https://img.shields.io/badge/Open%20Dashboard%20App%20Here-Google%20Looker-%20Blue)](https://lookerstudio.google.com/reporting/19bed04a-31ad-44b1-a179-7e1f87f610dc)
 
 
-[![Watch the demo](qagif.gif)](https://lookerstudio.google.com/reporting/19bed04a-31ad-44b1-a179-7e1f87f610dc)
+[![Watch the demo](QAGIF.gif)](https://lookerstudio.google.com/reporting/19bed04a-31ad-44b1-a179-7e1f87f610dc)
 > Click the image above to open the live dashboard!
 
 
